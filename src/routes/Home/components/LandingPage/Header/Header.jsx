@@ -40,7 +40,7 @@ export class Header extends React.PureComponent {
           </div>
         </Toolbar>
 
-        <h1>Let your global supply chain do the THINKing,<br /> so you don't have to.</h1>
+        <h1>Let your global supply chain do the THIIINKing,<br /> so you don't have to.</h1>
         <br />
         <GhostButton
           label="Login to Acme Freight"
